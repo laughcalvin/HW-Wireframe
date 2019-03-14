@@ -23,7 +23,7 @@ body {
 
 #section {
     width: 495px;
-    height: 220px;
+    height: 200px;
     margin-right:0;
     margin-left: 40px;
     margin-top: 10px;
@@ -33,7 +33,7 @@ body {
 
 #aside {
     width: 285px;
-    height: 220px;
+    height: 200px;
     margin-left: 20px;
     float: left;
     margin-top: 10px;
@@ -43,8 +43,8 @@ body {
     background: #777;
     text-align: center;
     color: #ebebeb;
-    padding: 20px;
-    width: 496px;
+    padding: 10px;
+    width: 516px;
     height: 150px;
     left: 10px;
     bottom: 10px;
