@@ -7,43 +7,47 @@ body {
 }
 
 .wide {
-    padding: 20px;
+    padding: 30px;
     background: #ebebeb;
     text-align: center;
-    width: 920px;
+    margin-left: 40px;
+    margin-bottom: 20px;
 }
 
 .middle {
-    padding: 20px;
+    padding: 30px;
     background: #ebebeb;
     text-align: center;
-    display: inline-block;
+    margin-bottom: 20px;
 }
 
 #section {
-    width: 470px;
-    height: 300px;
+    width: 496px;
+    height: 220px;
     margin-right:0;
+    margin-left: 40px;
+    margin-top: 10px;
+    position: relative;
+    float: left;
 }
 
 #aside {
-    width: 366px;
-    height: 300px;
+    width: 300px;
+    height: 220px;
     margin-left: 20px;
-    margin-right: 0;
+    float: left;
+    margin-top: 10px;
 }
 
 #article {
-    clear: both;
-    overflow: auto;
     background: #777;
     text-align: center;
     color: #ebebeb;
     padding: 20px;
-    width: 400px;
-    height: 200px;
-    left: 30px;
-    bottom: 28%;
+    width: 496px;
+    height: 150px;
+    left: 60px;
+    bottom: 265px;
     position: absolute;
 }
 
@@ -52,4 +56,10 @@ p {
     color: #777;
     height: 20px;
     padding: 10px;
+}
+
+#footer {
+    margin-top: 20px;
+    clear: both;
+    overflow: auto;
 }
