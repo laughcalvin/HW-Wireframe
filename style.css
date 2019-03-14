@@ -2,7 +2,7 @@ body {
     font-family: Arial;
     color: #777;
     background: #777;
-    width: 976px;
+    width: 960px;
     font-size: 18px;
 }
 
@@ -11,7 +11,7 @@ body {
     background: #ebebeb;
     text-align: center;
     margin-left: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .middle {
@@ -22,7 +22,7 @@ body {
 }
 
 #section {
-    width: 496px;
+    width: 495px;
     height: 220px;
     margin-right:0;
     margin-left: 40px;
@@ -32,7 +32,7 @@ body {
 }
 
 #aside {
-    width: 300px;
+    width: 285px;
     height: 220px;
     margin-left: 20px;
     float: left;
@@ -46,8 +46,8 @@ body {
     padding: 20px;
     width: 496px;
     height: 150px;
-    left: 60px;
-    bottom: 265px;
+    left: 10px;
+    bottom: 10px;
     position: absolute;
 }
 
